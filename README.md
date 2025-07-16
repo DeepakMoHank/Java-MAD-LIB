@@ -1,2 +1,2 @@
 # Java-MAD-LIB
-A simple game 
+A simple game  created using java 
